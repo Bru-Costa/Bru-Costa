@@ -31,14 +31,30 @@
 </div></br>
 
 ---
+---
 ### 📊 Estatísticas
 
-<div align="center">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bru-costa&theme=dracula" 
+  />
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bru-costa&theme=dracula) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bru-costa&theme=dracula)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8) </br>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bru-costa&theme=dracula)
- ![](https://github-readme-streak-stats.herokuapp.com?user=bru-costa&theme=dracula&hide_border=true) 
- 
-</div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bru-costa&theme=dracula" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8)" 
+  />
+
+</p>
