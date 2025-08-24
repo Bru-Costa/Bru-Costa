@@ -5,12 +5,15 @@
 **`Profissional em transição para a área de Testes de Software, com foco em qualidade, validação e verificação de sistemas. Possuo conhecimento em testes manuais, elaboração de casos de teste, execução de cenários e reporte de bugs. Tenho facilidade em aprender novas ferramentas e trabalhar em equipe, sempre buscando aprimorar os processos e contribuir para a entrega de softwares com maior confiabilidade e assertividade.
  Apaixonada por tecnologia e por aprender coisas novas, estou em constante evolução para me tornar uma profissional completa na área de QA (Quality Assurance). `**
 
-<div> 
-  <a href="https://discord.gg/brubs5596" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bantonellodj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="hwww.linkedin.com/in/bruna-costa-057b4b237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div></br>
+<div aling="center"> 
+
+ [![Gmail](https://img.shields.io/badge/gmail-6272a4?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:bantonellodj@gmail.com)
+ [![Discord](https://img.shields.io/badge/discord-6272a4?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/8WyFPxZ9)
+ [![linkedin](https://img.shields.io/badge/linkedin-6272a4?style=for-the-badge&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/bruna-costa-057b4b237)
+ [![whatsapp](https://img.shields.io/badge/whatsapp-6272a4?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/message/RQN5WX22LVIRG1)
+ 
+ 
+</div>
 
  ---
    ### 🤖 Linguagens e Tecnologias
@@ -32,25 +35,11 @@
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bru-costa&theme=dracula) | 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bru-costa&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bru-costa&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8) 
 
+| :-: | :-: | :-: |
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bru-costa&theme=dracula) || ![](https://github-readme-streak-stats.herokuapp.com?user=bru-costa&theme=dracula&hide_border=true) |
+
+| :-: | :-: | 
 </div>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bru-costa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bru-costa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
