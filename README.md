@@ -1,3 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6272a4" >
+
+<div align="center">
+ <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBru-Costa&s=40&c=fb77c3&bg=00000000&no=2&ff=digii&tb=Visits%3A&ta=" alt="visits">
+</div>
+
 ### 👩🏻‍💻 Bruna Costa
 
 **`Futura Analista de Testes e Qualidade de Software (QA)`**
@@ -16,32 +22,6 @@
 </div>
 
  ---
-   ### 📊 Statistics
-
-<div>
-   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px 0 10px 0;" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bru-costa&theme=dracula" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bru-costa&theme=dracula" 
-  />
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8" 
-  />
-</div>
- ---
    ### 🤖 Languages ​​and Technologies
 
 <div style="display: inline_block"><br>
@@ -57,5 +37,22 @@
 </div></br>
 
 ---
+### 📊 Statistics
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bru-costa&theme=dracula" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bru-costa&theme=dracula" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8" height="150" alt="languages graph"  />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bru-costa&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph.svg">
+</picture>
 
