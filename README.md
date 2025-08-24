@@ -16,6 +16,14 @@
 </div>
 
  ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+ ---
    ### 🤖 Languages ​​and Technologies
 
 <div style="display: inline_block"><br>
@@ -57,11 +65,3 @@
       src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8" 
   />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bru-costa/bru-costa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
