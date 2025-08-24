@@ -30,6 +30,12 @@
 ---
 ### 📊 Estatísticas
 
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bru-costa&theme=dracula) | 
+
+</div>
+
 <p>
   <img 
     align="left" 
