@@ -1,4 +1,4 @@
-#👩🏻‍💻 Bruna Costa
+### 👩🏻‍💻 Bruna Costa
 
 **`Futura Analista de Testes e Qualidade de Software (QA)`**
 
