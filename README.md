@@ -5,8 +5,6 @@
 **`Profissional em transição para a área de Testes de Software, com foco em qualidade, validação e verificação de sistemas. Possuo conhecimento em testes manuais, elaboração de casos de teste, execução de cenários e reporte de bugs. Tenho facilidade em aprender novas ferramentas e trabalhar em equipe, sempre buscando aprimorar os processos e contribuir para a entrega de softwares com maior confiabilidade e assertividade.
  Apaixonada por tecnologia e por aprender coisas novas, estou em constante evolução para me tornar uma profissional completa na área de QA (Quality Assurance). `**
 
-   ---
-
 <div> 
   <a href="https://discord.gg/brubs5596" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bantonellodj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
