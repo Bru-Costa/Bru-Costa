@@ -16,7 +16,7 @@
 </div>
 
  ---
-   ### 🤖 Linguagens e Tecnologias
+   ### 🤖 Languages ​​and Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,30 +31,30 @@
 </div></br>
 
 ---
----
-### 📊 Estatísticas
 
-<p align="center">
-  <img 
+  ### 📊 Statistics
+
+<div>
+   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="150" 
+    style="padding-right: 10px 0 10px 0;" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bru-costa&theme=dracula" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bru-costa&theme=dracula" 
   />
 
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8)" 
+      height="150" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8" 
   />
+</div>
 
-</p>
