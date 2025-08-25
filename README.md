@@ -40,12 +40,13 @@
 ### 📊 Statistics
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bru-costa&theme=dracula" height="150" alt="stats graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bru-costa&theme=dracula" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bru-costa&theme=dracula" height="150" alt="languages graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bru-costa&theme=dracula&utcOffset=8" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bru-costa&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bru-costa&theme=dracula" height="150" alt="stats graph"  />
 </div>
 
 ---
