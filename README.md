@@ -46,7 +46,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bru-costa&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bru-costa&theme=dracula" height="150" alt="stats graph"  />
 </div>
 
 ---
