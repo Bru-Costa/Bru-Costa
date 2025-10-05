@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=6272a4" >
 
-<div align="center">
- <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBru-Costa&s=40&c=fb77c3&bg=00000000&no=2&ff=digii&tb=Visits%3A&ta=" alt="visits">
-</div>
-
 ### 👩🏻‍💻 Bruna Costa
 
 **`Analista de Testes e Qualidade de Software (QA)`**
